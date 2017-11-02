@@ -1,0 +1,9 @@
+# x = 10
+# y = 5
+tmp = x
+y !
+y +
+tmp +
+y -> 4
+tmp !
+tmp !
